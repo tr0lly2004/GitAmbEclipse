@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#titol{
+	font-size: 18px;
+}
+
+p::first-letter{
+	font-size:230%;
+}
+
+p{
+	color: red;
+}
